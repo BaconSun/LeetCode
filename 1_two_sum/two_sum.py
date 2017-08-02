@@ -1,4 +1,4 @@
-""" The most naive way"""
+"""The most naive way"""
 class Solution(object):
     def twoSum(self, nums, target):
         """
